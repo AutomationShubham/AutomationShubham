@@ -59,15 +59,15 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23E34F26.svg?logo=Jenkins&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="TestNG" src="https://img.shields.io/badge/TeshNG%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="TestNG" src="https://img.shields.io/badge/TeshNG%20-%231572B6.svg?logo=TestNG&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%23563D7C.svg?style=Selenium&logoColor=white"/>
   </a>
 </p>
 
@@ -77,15 +77,15 @@
 <p align="left">
  
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23F05033.svg?logo=Eclipse&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%2334A853.svg?logo=PyCharm&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20-0078d7.svg?logo=Intellij&logoColor=white"></a>
   &emsp;
-   <a href="#"><img alt="PostMan" src="https://img.shields.io/badge/PostMan%20-%23F05033.svg?logo=git&logoColor=white"></a>
+   <a href="#"><img alt="PostMan" src="https://img.shields.io/badge/PostMan%20-%23F05033.svg?logo=PostMan&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Appium" src="https://img.shields.io/badge/Appium%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  <a href="#"><img alt="Appium" src="https://img.shields.io/badge/Appium%20-%2334A853.svg?logo=Appium&logoColor=white"></a>
   &emsp;
 </p>
 
