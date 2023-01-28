@@ -12,7 +12,7 @@
   
    <span></span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=+Hey!+It's+Shubham!;I'm+an+Autoamation+Engineer.;❤+Automation+Java+Appium;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=+Hey!+It's+Shubham!;I'm+an+Automation+Engineer.;❤+Automation+Java+Appium;)](https://git.io/typing-svg)
 </div>
 
 <hr color="blue"/>
@@ -52,6 +52,10 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?logo=Python&logoColor=white">
   </a>
   &emsp;
+    <a href="https://www.java.com" target="_blank"> 
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-%23007396.svg?logo=CSharp&logoColor=white">
+  </a>
+  &emsp;
 
 </p>
 
@@ -63,7 +67,7 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="TestNG" src="https://img.shields.io/badge/TeshNG%20-%231572B6.svg?logo=TestNG&logoColor=white">
+    <img alt="TestNG" src="https://img.shields.io/badge/TestNG%20-%231572B6.svg?logo=Testng&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
