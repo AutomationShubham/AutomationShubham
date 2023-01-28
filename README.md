@@ -12,7 +12,7 @@
   
    <span></span>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=+Hey!+It's+Shreyash!;I'm+a+Software+Developer.;❤+Core+Java+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=+Hey!+It's+Shubham!;I'm+an+Autoamation+Engineer.;❤+Automation+Java+Appium;)](https://git.io/typing-svg)
 </div>
 
 <hr color="blue"/>
@@ -24,55 +24,35 @@
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
  
- -  🔭 Check my resume at **https://rxresu.me/loki0925/shreyash-ahuja** .
- 
- -  📊 Check my Portfolio  at **https://loki0925.github.io/** .
+ -  🔭 Check my resume at **** .
 
  -  🚀 I am passionate about technology and want to learn & explore new technologies 
 
- -  🔭 I’m living  in India's Diamond city Surat   
+ -  🔭 I’m living  in India's Green city Gandhinagar   
 
- - 🌱 Learning and Exploring **Java Backend & Full-Stack Web Development**
+ - 🌱 Learning and Exploring **Automation & Related Technologies**
 
- - 👨‍💻 All of my projects are available [Here](https://github.com/loki0925?tab=repositories)
+ - 💬 Ask me about **Automation | Selenium | Appium**
 
- - 💬 Ask me about **Java | SpringBoot | Stockmarket**
-
- - 📫 How to reach me **shreyashahuja@gmail.com**
-
- - 🎯 Interests :**coding📕 | stockmarket  | travelling | cooking | chess | gardning | robotics | psychology | philosophy ***
+ - 📫 How to reach me **shubhamparekh16@yahoo.com**
 
  - ⚡ Fact :**Action and Intent is more important than talent 🫀:**
  
 ## 🛠️ My Skills
 
-###  Programming languages
+###  Automation Programming languages
 
 <p align="left"> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
+
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://spring.io/projects/spring-boot">
-    <img alt="SPRING-BOOT" src="https://img.shields.io/badge/SPRING-BOOT-%23777BB4.svg?logo=springboot&logoColor=white"/>
-  </a>
-   &emsp;
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JDBC" src="https://img.shields.io/badge/JDBC%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-    &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007396.svg?logo=java&logoColor=white">
-  </a>
+
+
 </p>
 
-###  Frontend Development
+###   Build Management Tools
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -117,13 +97,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=loki0925&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=loki0925&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=loki0925&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/shreyashAhuja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
@@ -131,5 +105,5 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 ---------
-Credits: [Shreyash](https://github.com/loki0925)
+Credits: [Shubham](https://github.com/AutomationShubham)
 
