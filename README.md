@@ -56,6 +56,10 @@
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-%23007396.svg?logo=CSharp&logoColor=white">
   </a>
   &emsp;
+   <a href="https://www.java.com" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/CSharp-%23007396.svg?logo=CSharp&logoColor=white">
+  </a>
+  &emsp;
 
 </p>
 
