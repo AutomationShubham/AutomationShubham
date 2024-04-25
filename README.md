@@ -32,9 +32,9 @@
 
  - 🌱 Learning and Exploring **Automation & Related Technologies**
 
- - 💬 Ask me about **Automation | Selenium | Appium**
+ - 💬 Ask me about **Automation | Selenium | Appium | API**
 
- - 📫 How to reach me **shubhamparekh16@yahoo.com**
+ - 📫 How to reach me **shubhamparekh42@yahoo.com**
 
  - ⚡ Fact :**Action and Intent is more important than talent 🫀:**
  
