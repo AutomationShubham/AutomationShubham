@@ -42,8 +42,8 @@
 
 ###  Automation Programming languages
 
-<p align="left"> 
-  &emsp;
+<p> 
+  
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=JAVA&logoColor=white">
   </a>
