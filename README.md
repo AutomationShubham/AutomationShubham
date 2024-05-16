@@ -24,7 +24,7 @@
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
  
- -  🔭 Check my resume [HERE](https://github.com/AutomationShubham/AutomationShubham/blob/main/Shubham%20Parekh%20CV.pdf) 
+ -  🔭 Check my resume [HERE](https://github.com/AutomationShubham/AutomationShubham/blob/main/ShubhamParekh_Automation_CV.pdf) 
 
  -  🚀 I am passionate about technology and want to learn & explore new technologies 
 
