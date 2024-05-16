@@ -44,13 +44,14 @@
 
 <p> 
 
-    <a href="https://www.java.com" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-%23007396.svg?logo=Python&logoColor=white">
-  </a>
-  &emsp;
-    <a href="https://www.java.com" target="_blank"> 
-    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-%23007396.svg?logo=CSharp&logoColor=white">
-  </a>
+<a href="https://www.python.org" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white">
+</a>
+&emsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img alt="CSharp" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white">
+</a>
+
 
 
 
